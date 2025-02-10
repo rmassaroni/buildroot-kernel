@@ -3261,7 +3261,7 @@ endif
 ifneq "$(HOSTARCH)" "aarch64"
 /home/rjm/projects/buildroot-2024.02/output/build/buildroot-config/auto.conf: FORCE
 endif
-ifneq "$(BR2_VERSION_FULL)" "-g244d2ff9-dirty"
+ifneq "$(BR2_VERSION_FULL)" "-gb522f6e2-dirty"
 /home/rjm/projects/buildroot-2024.02/output/build/buildroot-config/auto.conf: FORCE
 endif
 
